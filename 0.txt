@@ -1,0 +1,123 @@
+
+        public int Upd_Status_ByPersonID(int PersonID, int NewStatus) 
+        {
+            try
+            {
+                List&lt;DetailsTable&gt; aListDetailsTable = aDatabaseDA.DetailsTable.Where(b =&gt; b.PersonID == PersonID).ToList();
+                if (aListDetailsTable.Count &gt; 0) 
+                {
+                   
+                        aListDetailsTable[0].Status = NewStatus;
+                        aDatabaseDA.DetailsTable.AddOrUpdate(aListDetailsTable[0]);
+                        return aDatabaseDA.SaveChanges();
+                    
+                }
+                return 0;
+            }
+            catch (Exception ex) 
+            {
+                throw new Exception(String.Format("Upd_Status_ByPersonID:{0}", ex.Message));
+            }
+        }
+        
+        public int Upd_Type_ByPersonID(int PersonID, int NewType) 
+        {
+            try
+            {
+                List&lt;DetailsTable&gt; aListDetailsTable = aDatabaseDA.DetailsTable.Where(b =&gt; b.PersonID == PersonID).ToList();
+                if (aListDetailsTable.Count &gt; 0) 
+                {
+                   
+                        aListDetailsTable[0].Type = NewType;
+                        aDatabaseDA.DetailsTable.AddOrUpdate(aListDetailsTable[0]);
+                        return aDatabaseDA.SaveChanges();
+                    
+                }
+                return 0;
+               
+            }
+            catch (Exception ex) 
+            {
+                throw new Exception(String.Format("Upd_Type_ByPersonID:{0}", ex.Message));
+            }
+        }
+
+        
+        public int Upd_Disable_ByPersonID(int PersonID,bool NewDisable) 
+        {
+            try
+            {
+                List&lt;DetailsTable&gt; aListDetailsTable = aDatabaseDA.DetailsTable.Where(b =&gt; b.PersonID == PersonID).ToList();
+                if (aListDetailsTable.Count &gt; 0) 
+                {
+                   
+                        aListDetailsTable[0].Disable = NewDisable;
+                        aDatabaseDA.DetailsTable.AddOrUpdate(aListDetailsTable[0]);
+                        return aDatabaseDA.SaveChanges();
+                    
+                }
+                return 0;
+            }
+            catch (Exception ex) 
+            {
+                throw new Exception(String.Format("Upd_Disable_ByPersonID:{0}", ex.Message));
+            }
+        }
+		
+		public int Del_ByPersonID(Int32 PersonID)
+        {
+            try
+            {
+                List&lt;DetailsTable&gt; aTemp = aDatabaseDA.DetailsTable.Where(p=&gt;p.PersonID == PersonID).ToList();
+           
+                if (aTemp.Count &gt; 0)
+                {
+                    aDatabaseDA.DetailsTable.Remove(aTemp[0]);
+                    return aDatabaseDA.SaveChanges();
+                }
+                else
+                {
+                    throw new Exception(String.Format("DetailsTableBO.Del: {0}", "Không tìm thấy DetailsTable có PersonID = " + PersonID));
+                }
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(String.Format("DetailsTableBO.Del: {0}", ex.Message));
+            }
+        }
+		
+        public int Del_By_ListPersonID(List&lt;int&gt; aListPersonID)
+        {
+            try
+            {
+                List&lt;DetailsTable&gt; aTemp = aDatabaseDA.DetailsTable.Where(p =&gt; aListPersonID.Contains(int.Parse(p.PersonID.ToString()))).ToList();
+                if (aTemp.Count &gt; 0)
+                {
+                    aDatabaseDA.DetailsTable.RemoveRange(aTemp);
+                    return aDatabaseDA.SaveChanges();
+                }
+                return 0;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(String.Format("DetailsTableBO.Del_ByCode: {0}", ex.Message));
+            }
+        }
+
+        public  DetailsTable Sel_ByPersonID(Int32 PersonID)
+        {
+            try
+            {
+                DetailsTable aDetailsTable = aDatabaseDA.DetailsTable.Where(b =&gt; b.PersonID == PersonID).ToList()[0];
+              
+                    return aDetailsTable;
+               
+                
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(String.Format("DetailsTableBO.Sel: {0}", ex.Message));
+            }
+        }
+        

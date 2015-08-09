@@ -1,0 +1,58 @@
+123456789
+<LOOP looptype='column' by='normalcolumn' >
+
+	normalcolumn123|@Column@|456---|@DataTypeSQL@|----|@DataTypeNET@|----
+	123|@Schema@|.|@Table@|456
+
+</LOOP>
+000
+<LOOP looptype='int' from='3' to = '5' >
+    int|@Number@||@Schema@|.|@Table@|
+    123|@Column@|456
+</LOOP>
+000
+<LOOP looptype='column' by='keycolumn' >
+
+	keycolumn123|@Column@|456---|@DataTypeSQL@|----|@DataTypeNET@|----
+	123|@Schema@|.|@Table@|456
+
+</LOOP>
+0000
+<LOOP looptype='column' by='foreigncolumn' >
+
+	keycolumn123|@Column@|456---|@DataTypeSQL@|----|@DataTypeNET@|---|@RefColumn@|----|@RefTable@|---
+	123|@Schema@|.|@Table@|456
+
+</LOOP>
+000
+
+<LOOP looptype='column' by='autocolumn' >
+
+	autocolumn123|@Column@|456---|@DataTypeSQL@|----|@DataTypeNET@|----
+	123|@Schema@|.|@Table@|456
+
+</LOOP>
+000
+
+<LOOP looptype='DataTypeSQL' by='nvarchar' >
+
+	nvarchar123|@Column@|456---|@DataTypeSQL@|----|@DataTypeNET@|----
+	123|@Schema@|.|@Table@|456
+
+</LOOP>
+
+<LOOP looptype='DataTypeNET' by='string' >
+
+	DataTypeNETint123|@Column@|456---|@DataTypeSQL@|----|@DataTypeNET@|----
+	123|@Schema@|.|@Table@|456
+
+</LOOP>
+
+dddddd
+<LOOP looptype='ColumnName' by='Image' >
+
+	ColumnName|@Column@|456---|@DataTypeSQL@|----|@DataTypeNET@|----
+	123|@Schema@|.|@Table@|456
+
+</LOOP>
+vvvvvvv

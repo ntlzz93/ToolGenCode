@@ -1,0 +1,39 @@
+GO
+
+-- =============================================
+-- Author:		Minh Ngoc
+-- Create date: 9/3/2011
+-- Description:	Gen by tool
+-- =============================================
+CREATE PROCEDURE [dbo].[SP_[@Table@]_ins]
+   <REPEAT SeparateBy = ",">
+	@[@NormalField@] nvarchar(MAX)
+   </REPEAT>
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    Insert Into [@Table@]
+		(
+		
+		   <REPEAT SeparateBy = ",">
+			[[@NormalField@]]
+		   </REPEAT>
+		 )
+	Values
+		(
+		   <REPEAT SeparateBy = ",">
+			@[@NormalField@]
+		   </REPEAT>
+		)
+
+	Declare @ReferenceID int
+	Select  @ReferenceID = @@IDENTITY
+
+	Return @ReferenceID
+	
+END
+
+GO

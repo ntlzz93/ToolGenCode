@@ -1,0 +1,8 @@
+
+	 content.Contents.Image AS Contents_Image,
+
+	 content.Contents.Image1 AS Contents_Image1,
+
+	 content.Contents.Image2 AS Contents_Image2,
+
+	 content.Contents.Image3 AS Contents_Image3,

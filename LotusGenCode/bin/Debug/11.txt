@@ -1,0 +1,6 @@
+
+	 content.Contents.ID AS Contents_ID,
+
+	 content.Contents.IDAlbum AS Contents_IDAlbum,
+
+	 content.Contents.IDLang AS Contents_IDLang,

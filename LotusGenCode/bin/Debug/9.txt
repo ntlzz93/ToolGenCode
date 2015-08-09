@@ -1,0 +1,4 @@
+
+	 content.Contents.CodeCategoryLevel1 AS Contents_CodeCategoryLevel1,
+
+	 content.Contents.Code AS Contents_Code,

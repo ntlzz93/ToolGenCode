@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolGen", "ToolGen.csproj", "{8598E1B0-A69F-4AE9-B095-D42D45435D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotusGenCode", "..\LotusGenCode\LotusGenCode.csproj", "{5EE14AC0-57F0-4FA7-A229-F2C9AA9CA4EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8598E1B0-A69F-4AE9-B095-D42D45435D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8598E1B0-A69F-4AE9-B095-D42D45435D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8598E1B0-A69F-4AE9-B095-D42D45435D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8598E1B0-A69F-4AE9-B095-D42D45435D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE14AC0-57F0-4FA7-A229-F2C9AA9CA4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE14AC0-57F0-4FA7-A229-F2C9AA9CA4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE14AC0-57F0-4FA7-A229-F2C9AA9CA4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE14AC0-57F0-4FA7-A229-F2C9AA9CA4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

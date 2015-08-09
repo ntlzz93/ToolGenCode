@@ -1,0 +1,2 @@
+
+	 content.Contents.Disable AS Contents_Disable,

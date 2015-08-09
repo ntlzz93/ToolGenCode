@@ -1,0 +1,60 @@
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe.config
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.pdb
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.FrmConnect.resources
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.FrmListTable.resources
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.Properties.Resources.resources
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.csproj.GenerateResource.Cache
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.exe
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.pdb
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe.manifest
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.application
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.exe.manifest
+C:\Users\Independence\Desktop\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.application
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe.config
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.exe
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.pdb
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.FrmConnect.resources
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.FrmListTable.resources
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.Properties.Resources.resources
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.csproj.GenerateResource.Cache
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe.manifest
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.application
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.pdb
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.exe.manifest
+C:\Users\Independence\Desktop\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.application
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe.config
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.exe
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.pdb
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe.manifest
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.application
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.pdb
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.FrmConnect.resources
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.FrmListTable.resources
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.Properties.Resources.resources
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.csproj.GenerateResource.Cache
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.exe.manifest
+H:\database\Root\C#\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.application
+H:\database\Root\PHP\FW\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe.config
+H:\database\Root\PHP\FW\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.exe
+H:\database\Root\PHP\FW\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc V1.0\Tool-GenCode MySQL -PHP Ngoc\ToolNgoc\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.pdb
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe.config
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.exe
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.pdb
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe.manifest
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.application
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.exe
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\bin\Debug\ToolGenPHPLayer.pdb
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.FrmConnect.resources
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.FrmListTable.resources
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.Properties.Resources.resources
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.exe.manifest
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\obj\Debug\ToolGenPHPLayer.application
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\database\Root\C#\Tool GenCode MySQL-PHP\ToolGenPHPLayer\obj\Debug\GenerateResource-ResGen.write.1.tlog

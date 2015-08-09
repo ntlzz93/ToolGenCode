@@ -1,0 +1,8 @@
+
+	 content.Contents.DateCreated AS Contents_DateCreated,
+
+	 content.Contents.DateEdited AS Contents_DateEdited,
+
+	 content.Contents.PublishDate AS Contents_PublishDate,
+
+	 content.Contents.ExpireDate AS Contents_ExpireDate,

@@ -1,0 +1,249 @@
+123456789
+
+
+	normalcolumn123CategoryNameLevel1456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Status456---int----int----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Disable456---bit----Boolean----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123CodeCategoryLevel2456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Code456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123IDLang456---int----int----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Type456---int----int----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Note456---ntext----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Image456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Image1456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Image2456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Image3456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Tag456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Info456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123Intro456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123IDAlbum456---int----int----
+	123content.CategoryLevel1456
+
+
+
+	normalcolumn123ViewCount456---bigint----Int64----
+	123content.CategoryLevel1456
+
+
+000
+
+    int3content.CategoryLevel1
+    123|@Column Tab is not avaiable in this loop type@|456
+
+    int4content.CategoryLevel1
+    123|@Column Tab is not avaiable in this loop type@|456
+
+    int5content.CategoryLevel1
+    123|@Column Tab is not avaiable in this loop type@|456
+
+000
+
+
+	keycolumn123ID456---int----int----
+	123content.CategoryLevel1456
+
+
+0000
+
+000
+
+
+
+	autocolumn123IDLang456---int----int----
+	123content.CategoryLevel1456
+
+
+000
+
+
+
+	nvarchar123CategoryNameLevel1456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	nvarchar123CodeCategoryLevel2456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	nvarchar123Code456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	nvarchar123Image456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	nvarchar123Image1456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	nvarchar123Image2456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	nvarchar123Image3456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	nvarchar123Tag456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	nvarchar123Info456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	nvarchar123Intro456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+
+
+	DataTypeNETint123CategoryNameLevel1456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	DataTypeNETint123CodeCategoryLevel2456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	DataTypeNETint123Code456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	DataTypeNETint123Note456---ntext----String----
+	123content.CategoryLevel1456
+
+
+
+	DataTypeNETint123Image456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	DataTypeNETint123Image1456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	DataTypeNETint123Image2456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	DataTypeNETint123Image3456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	DataTypeNETint123Tag456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	DataTypeNETint123Info456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	DataTypeNETint123Intro456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+dddddd
+
+
+	ColumnNameImage456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	ColumnNameImage1456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	ColumnNameImage2456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+
+	ColumnNameImage3456---nvarchar----String----
+	123content.CategoryLevel1456
+
+
+vvvvvvv

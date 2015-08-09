@@ -1,0 +1,4 @@
+
+	 content.Contents.CreatedBy AS Contents_CreatedBy,
+
+	 content.Contents.UpdateBy AS Contents_UpdateBy,
